@@ -9,7 +9,7 @@
 
 .container {
     margin: 0 auto;
-    max-width: 100px;
+    max-width: 400px;
 }
 
 h1 {
@@ -18,8 +18,6 @@ h1 {
 }
 
 .b {
-    max-width: 100px;
-
     margin-top: 30px;
     gap: 40px;
     display: flex;
@@ -81,6 +79,7 @@ h2 {
     background-color: rgb(37, 21, 101);
     color: white;
     border-radius: 5px;
+    margin-bottom: 15px;
 }
 
 h1 {
