@@ -26,14 +26,14 @@ h1 {
 }
 
 img {
-    width: 180px;
+    width: 190px;
     height: 100%;
 }
-/* 
+
 .b2 img {
     width: 180px;
     height: 100%;
-} */
+}
 .var {
     gap: 20px;
     display: flex;
