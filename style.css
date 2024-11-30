@@ -26,11 +26,12 @@ h1 {
 }
 
 img {
-    width: 190px;
+    width: 200px;
     height: 100%;
 }
 
-.b2 img {
+.b2 img,
+.b6 img {
     width: 180px;
     height: 100%;
 }
