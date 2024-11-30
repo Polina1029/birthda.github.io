@@ -26,16 +26,16 @@ h1 {
 }
 
 img {
-    width: 230px;
-    height: 100%;
-}
-
-.b2 img {
     width: 180px;
     height: 100%;
 }
+/* 
+.b2 img {
+    width: 180px;
+    height: 100%;
+} */
 .var {
-    gap: 15px;
+    gap: 20px;
     display: flex;
     align-items: center;
     justify-content: space-between;
